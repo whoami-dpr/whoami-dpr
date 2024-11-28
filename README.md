@@ -2,5 +2,4 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Im+DPR)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Im+DPR;If+you+can't+be+self-taught%2C+you're+not+going+to+change+the+world.;In+process)](https://git.io/typing-svg)
