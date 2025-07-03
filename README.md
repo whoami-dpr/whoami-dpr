@@ -1,4 +1,4 @@
-<h1 align="center">Hello</h1>
+<h1 align="center">Hi!</h1>
 
 ---
 <img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
